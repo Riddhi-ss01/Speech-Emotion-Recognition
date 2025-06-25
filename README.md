@@ -1,5 +1,5 @@
 # Speech-Emotion-Recognition
-# 🎵 Speech and Song Emotion Classification using Deep Features and Neural Networks
+🎵 Speech and Song Emotion Classification using Deep Features and Neural Networks
 
 This project focuses on classifying emotions from audio files containing **speech** data. It leverages deep audio feature extraction using **Librosa**, a **CNN-BiLSTM-Attention** based neural network model, and various regularization techniques to improve generalization and prevent overfitting.
 
