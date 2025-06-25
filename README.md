@@ -89,6 +89,10 @@ Each file is labeled with emotion codes which are mapped to the following emotio
 ## 📦 Setup Instructions
 
 ```bash
+
+- Watch video https://drive.google.com/drive/u/4/folders/1uAhKOE6cL2Zdb7ZotPcHg8Z1X2MATMw-
+
+
 # Clone the repository
 git clone https://github.com/yourusername/speech-song-emotion-classification.git
 cd speech-song-emotion-classification
